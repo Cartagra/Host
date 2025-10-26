@@ -1,0 +1,103 @@
+# =========================
+# Cloudflare Accelerated Hosts
+# Route all Cloudflare-related domains via 162.159.36.100
+# =========================
+
+162.159.36.100 cloudflare.com
+162.159.36.100 www.cloudflare.com
+162.159.36.100 api.cloudflare.com
+162.159.36.100 dash.cloudflare.com
+162.159.36.100 support.cloudflare.com
+162.159.36.100 blog.cloudflare.com
+162.159.36.100 status.cloudflare.com
+162.159.36.100 developers.cloudflare.com
+162.159.36.100 community.cloudflare.com
+162.159.36.100 help.cloudflare.com
+162.159.36.100 partners.cloudflare.com
+162.159.36.100 updates.cloudflare.com
+
+# DNS / DOH / DOT
+162.159.36.100 one.one.one.one
+162.159.36.100 1.1.1.1
+162.159.36.100 1.0.0.1
+162.159.36.100 cloudflare-dns.com
+162.159.36.100 security.cloudflare-dns.com
+162.159.36.100 family.cloudflare-dns.com
+162.159.36.100 dns.cloudflare.com
+162.159.36.100 1dot1dot1dot1.cloudflare-dns.com
+
+# CDN / JS / Assets
+162.159.36.100 cdnjs.cloudflare.com
+162.159.36.100 cdnjs.com
+162.159.36.100 cdn.cloudflare.net
+162.159.36.100 static.cloudflareinsights.com
+162.159.36.100 beacon.cloudflare.com
+162.159.36.100 insights.cloudflare.com
+162.159.36.100 performance.cloudflare.com
+
+# Pages / Workers / R2
+162.159.36.100 workers.cloudflare.com
+162.159.36.100 workers.dev
+162.159.36.100 pages.cloudflare.com
+162.159.36.100 pages.dev
+162.159.36.100 r2.cloudflarestorage.com
+162.159.36.100 api.r2.cloudflarestorage.com
+
+# Access / Zero Trust / Warp
+162.159.36.100 warp.cloudflareclient.com
+162.159.36.100 api.cloudflareclient.com
+162.159.36.100 update.cloudflareclient.com
+162.159.36.100 cloudflareaccess.com
+162.159.36.100 zero-trust-dashboard.cloudflareaccess.com
+162.159.36.100 teams.cloudflare.com
+162.159.36.100 gateway.cloudflare.com
+162.159.36.100 team.cloudflare.com
+162.159.36.100 client.cloudflareclient.com
+
+# Nameservers
+162.159.36.100 a.ns.cloudflare.com
+162.159.36.100 b.ns.cloudflare.com
+162.159.36.100 c.ns.cloudflare.com
+162.159.36.100 d.ns.cloudflare.com
+162.159.36.100 e.ns.cloudflare.com
+162.159.36.100 f.ns.cloudflare.com
+162.159.36.100 g.ns.cloudflare.com
+162.159.36.100 h.ns.cloudflare.com
+162.159.36.100 i.ns.cloudflare.com
+162.159.36.100 j.ns.cloudflare.com
+162.159.36.100 k.ns.cloudflare.com
+162.159.36.100 l.ns.cloudflare.com
+
+# Foundation DNS (Enterprise NS)
+162.159.36.100 foundationdns.com
+162.159.36.100 foundationdns.net
+162.159.36.100 foundationdns.org
+
+# Cloudflare API / Misc
+162.159.36.100 api.cloudflare.com
+162.159.36.100 api.cloudflarestatus.com
+162.159.36.100 api.cloudflareinsights.com
+162.159.36.100 metrics.cloudflare.com
+162.159.36.100 logs.cloudflare.com
+162.159.36.100 updates.cloudflare.com
+
+# Workers Gateway / KV / Tunnel
+162.159.36.100 tunnel.cloudflareclient.com
+162.159.36.100 argo.cloudflare.com
+162.159.36.100 kv.cloudflare.com
+
+# Email / Auth
+162.159.36.100 auth.cloudflare.com
+162.159.36.100 login.cloudflare.com
+162.159.36.100 sso.cloudflare.com
+
+# Assets and Docs
+162.159.36.100 assets.cloudflare.com
+162.159.36.100 docs.cloudflare.com
+162.159.36.100 api-docs.cloudflare.com
+
+# Misc
+162.159.36.100 report-uri.cloudflare.com
+162.159.36.100 cf-ipfs.com
+162.159.36.100 cf-ns.com
+162.159.36.100 cfargotunnel.com
