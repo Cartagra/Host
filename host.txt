@@ -1,0 +1,8 @@
+#鸣潮亚服
+2600:1413:5000:27::173a:90f3 gmserver-api.aki-game2.net
+23.32.39.66 gmserver-api.aki-game2.net
+23.32.39.7 login1-jp.aki-game.net
+2600:1413:5000:27::173a:90f1 login1-jp.aki-game.net
+
+#二重螺旋
+172.96.115.231 pan01-cdn-hs-jp.dna-panstudio.com
