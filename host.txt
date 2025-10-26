@@ -53,8 +53,8 @@
 2600:1413:5000:25::1738:6136 cdn-akamai-hw-mc.aki-game.net
 2600:1413:5000:25::1738:6141 cdn-akamai-hw-mc.aki-game.net
 
-
-
+3.165.102.14 sdkapi.kurogame-service.com
+3.165.102.74 sdkapi.kurogame-service.com
 
 #二重螺旋
 172.96.115.231 pan01-cdn-hs-jp.dna-panstudio.com
