@@ -1,8 +1,26 @@
 #鸣潮亚服
 2600:1413:5000:27::173a:90f3 gmserver-api.aki-game2.net
 23.32.39.66 gmserver-api.aki-game2.net
+
 23.32.39.7 login1-jp.aki-game.net
 2600:1413:5000:27::173a:90f1 login1-jp.aki-game.net
+
+43.174.75.53 guide-res.aki-game.net
+
+23.54.155.112 aki-config-akamai.aki-game2.net
+23.54.155.109 aki-config-akamai.aki-game2.net
+2600:1413:5000:25::1738:6119 aki-config-akamai.aki-game2.net
+2600:1413:5000:25::1738:6116 aki-config-akamai.aki-game2.net
+
+23.54.155.112 aki-config-huoshan.aki-game2.net
+23.54.155.109 aki-config-huoshan.aki-game2.net
+2600:1413:5000:25::1738:6119 aki-config-huoshan.aki-game2.net
+2600:1413:5000:25::1738:6116 aki-config-huoshan.aki-game2.net
+
+23.54.155.112 aki-config-aws.aki-game2.net
+23.54.155.109 aki-config-aws.aki-game2.net
+2600:1413:5000:25::1738:6119 aki-config-aws.aki-game2.net
+2600:1413:5000:25::1738:6116 aki-config-aws.aki-game2.net
 
 #二重螺旋
 172.96.115.231 pan01-cdn-hs-jp.dna-panstudio.com
