@@ -6,22 +6,18 @@
 3.170.229.10 sdk-prod-cdn-aws.kurogame-service
 3.170.229.84 sdk-prod-cdn-aws.kurogame-service
 
-#huoshan
-37.19.215.163 aki-config-huoshan.aki-game.net
-98.98.65.50  aki-config-huoshan.aki-game.net
-23.54.155.112 aki-config-huoshan.aki-game2.net
-23.54.155.109 aki-config-huoshan.aki-game2.net
-2600:1413:5000:25::1738:6119 aki-config-huoshan.aki-game2.net
-2600:1413:5000:25::1738:6116 aki-config-huoshan.aki-game2.net
-65.8.76.35 cdn-huoshan-hw-mc.aki-game.net
-65.8.76.20 cdn-huoshan-hw-mc.aki-game.net
-2600:9000:2153:f800:9:b904:fa80:93a1 cdn-huoshan-hw-mc.aki-game.net
-2600:9000:2153:7a00:9:b904:fa80:93a1 cdn-huoshan-hw-mc.aki-game.net
+#huoshan block
+127.0.0.1 aki-config-huoshan.aki-game.net
+127.0.0.1 aki-config-huoshan.aki-game2.net
+127.0.0.1 cdn-huoshan-hw-mc.aki-game.net
 
-#qcloud block
-127.0.0.1 aki-config-qcloud.aki-game.net
-127.0.0.1 aki-config-qcloud.aki-game2.net
-127.0.0.1 cdn-qcloud-hw-mc.aki-game.net
+#qcloud
+45.197.79.57 aki-config-qcloud.aki-game.net
+43.174.75.53 aki-config-qcloud.aki-game.net
+45.197.79.57 aki-config-qcloud.aki-game2.net
+45.197.79.53 aki-config-qcloud.aki-game2.net
+3.170.229.65 cdn-qcloud-hw-mc.aki-game.net
+3.170.229.22 cdn-qcloud-hw-mc.aki-game.net
 
 #aws block
 127.0.0.1 aki-config-aws.aki-game.net
@@ -29,8 +25,8 @@
 127.0.0.1 cdn-aws-hw-mc.aki-game.net
 
 #aliyun
-127.0.0.1 cdn-aliyun-hw-mc.aki-game.net
-127.0.0.1 cdn-aliyun-hw-mc.aki-game.net
+92.223.84.84 cdn-aliyun-hw-mc.aki-game.net
+92.223.95.95 cdn-aliyun-hw-mc.aki-game.net
 
 #akamai block
 127.0.0.1 aki-config-akamai.aki-game.net
