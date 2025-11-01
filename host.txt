@@ -32,17 +32,22 @@
 
 
 #aliyun
-3.170.229.65 cdn-aliyun-hw-mc.aki-game.net
-3.170.229.22 cdn-aliyun-hw-mc.aki-game.net
+92.223.84.84 cdn-aliyun-hw-mc.aki-game.net
+92.223.95.95 cdn-aliyun-hw-mc.aki-game.net
 
-#akamai block
-45.197.79.57 aki-config-akamai.aki-game.net
-43.174.75.53 aki-config-akamai.aki-game.net
-45.197.79.57 aki-config-akamai.aki-game2.net
-45.197.79.53 aki-config-akamai.aki-game2.net
-3.170.229.65 cdn-akamai-hw-mc.aki-game.net
-3.170.229.22 cdn-akamai-hw-mc.aki-game.net
-
+#akamai
+23.54.155.112 aki-config-akamai.aki-game.net
+23.54.155.102 aki-config-akamai.aki-game.net
+2600:1413:5000:25::1738:6119 aki-config-akamai.aki-game.net
+2600:1413:5000:25::1738:6116 aki-config-akamai.aki-game.net
+23.54.155.112 aki-config-akamai.aki-game2.net
+23.54.155.109 aki-config-akamai.aki-game2.net
+2600:1413:5000:25::1738:6119 aki-config-akamai.aki-game2.net
+2600:1413:5000:25::1738:6116 aki-config-akamai.aki-game2.net
+23.54.155.105 cdn-akamai-hw-mc.aki-game.net
+23.54.155.102 cdn-akamai-hw-mc.aki-game.net
+2600:1413:5000:25::1738:6136 cdn-akamai-hw-mc.aki-game.net
+2600:1413:5000:25::1738:6141 cdn-akamai-hw-mc.aki-game.net
 
 #aki-game
 23.32.39.50 gar-service.aki-game.net
