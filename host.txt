@@ -63,10 +63,10 @@
 43.174.75.53 aki-gm-resources-back.aki-game.net
 
 #二重螺旋
-108.157.254.84 pan01-cdn-hs-jp.dna-panstudio.com
-2600:9000:271a:a00:1f:765a:d3c0:93a1 pan01-cdn-hs-jp.dna-panstudio.com
-108.157.254.84 pan01-cdn-aws-jp.dna-panstudio.com
+#108.157.254.84 pan01-cdn-hs-jp.dna-panstudio.com
+#2600:9000:271a:a00:1f:765a:d3c0:93a1 pan01-cdn-hs-jp.dna-panstudio.com
+#108.157.254.84 pan01-cdn-aws-jp.dna-panstudio.com
 #2600:9000:271a:a00:1f:765a:d3c0:93a1 pan01-cdn-aws-jp.dna-panstudio.com
-108.157.254.84 pan01-cdn-eo-jp.dna-panstudio.com
+#108.157.254.84 pan01-cdn-eo-jp.dna-panstudio.com
 #2600:9000:271a:a00:1f:765a:d3c0:93a1 pan01-cdn-eo-jp.dna-panstudio.com
-108.157.254.84 pan01-cdn-ali-jp.dna-panstudio.com
+#108.157.254.84 pan01-cdn-ali-jp.dna-panstudio.com
