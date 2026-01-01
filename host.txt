@@ -1,7 +1,7 @@
 
 #------鸣潮亚服---------
 
-128.14.219.131 wuwa-act.kurogames-global.com
+71.18.102.225 wuwa-act.kurogames-global.com
 
 #kuro-games
 3.165.102.14 sdkapi.kurogame-service.com
