@@ -44,7 +44,7 @@
 #akamai
 23.54.155.112 aki-config-akamai.aki-game.net
 23.54.155.102 aki-config-akamai.aki-game.net
-2600:140b:1a00:7::17c1:ba2c aki-config-akamai.aki-game.net
+2001:b034:1:700::cb45:5138 aki-config-akamai.aki-game.net
 2600:140b:1a00:7::17c1:ba0e aki-config-akamai.aki-game.net
 23.54.155.112 aki-config-akamai.aki-game2.net
 23.54.155.109 aki-config-akamai.aki-game2.net
@@ -56,16 +56,18 @@
 2600:1413:5000:25::1738:6141 cdn-akamai-hw-mc.aki-game.net
 
 #aki-game
-23.32.39.50 gar-service.aki-game.net
-23.32.39.34 gar-service.aki-game.net
-2600:1413:5000:27::173a:90f3 gar-service.aki-game.net
-2600:1413:5000:27::173a:90e8 gar-service.aki-game.net
-2600:1413:5000:27::173a:90f3 gmserver-api.aki-game2.net
-23.32.39.66 gmserver-api.aki-game2.net
+23.220.70.26 gar-service.aki-game.net
+23.54.155.73 gar-service.aki-game.net
+2600:1410:1000::17ce:afab gar-service.aki-game.net
+2600:1417:1b::cb45:8acf gar-service.aki-game.net
+2600:1413:5000:31::211:6ac9 gmserver-api.aki-game2.net
+2600:140b:a00:8::b81a:2b49 gmserver-api.aki-game2.net
+2.17.106.104 gmserver-api.aki-game2.net
+23.197.85.75 gmserver-api.aki-game2.net
 23.32.39.7 login1-jp.aki-game.net
-2600:1413:5000:27::173a:90f1 login1-jp.aki-game.net
+2600:1410:1000::17ce:afab login1-jp.aki-game.net
 43.174.75.53 guide-res.aki-game.net
-45.197.79.57 aki-gm-resources-back.aki-game.net
+45.197.79.57 aki-gm-resources-back.aki-game.net  
 43.174.75.53 aki-gm-resources-back.aki-game.net
 
 #二重螺旋
