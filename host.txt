@@ -2,6 +2,7 @@
 #------鸣潮亚服---------
 
 71.18.102.225 wuwa-act.kurogames-global.com
+71.18.102.225 wuwa-act.kurogames-global.com.volcgslb.com
 
 #kuro-games
 3.165.102.14 sdkapi.kurogame-service.com
@@ -41,12 +42,12 @@
 #akamai
 23.54.155.112 aki-config-akamai.aki-game.net
 23.54.155.102 aki-config-akamai.aki-game.net
-2600:1413:5000:25::1738:6119 aki-config-akamai.aki-game.net
-2600:1413:5000:25::1738:6116 aki-config-akamai.aki-game.net
+2600:140b:1a00:7::17c1:ba2c aki-config-akamai.aki-game.net
+2600:140b:1a00:7::17c1:ba0e aki-config-akamai.aki-game.net
 23.54.155.112 aki-config-akamai.aki-game2.net
 23.54.155.109 aki-config-akamai.aki-game2.net
-2600:1413:5000:25::1738:6119 aki-config-akamai.aki-game2.net
-2600:1413:5000:25::1738:6116 aki-config-akamai.aki-game2.net
+2600:140b:1a00:7::17c1:ba1c aki-config-akamai.aki-game2.net
+2600:140b:1a00:7::17c1:ba15 aki-config-akamai.aki-game2.net
 23.54.155.105 cdn-akamai-hw-mc.aki-game.net
 23.54.155.102 cdn-akamai-hw-mc.aki-game.net
 2600:1413:5000:25::1738:6136 cdn-akamai-hw-mc.aki-game.net
