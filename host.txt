@@ -3,6 +3,8 @@
 
 71.18.102.225 wuwa-act.kurogames-global.com
 71.18.102.225 wuwa-act.kurogames-global.com.volcgslb.com
+43.174.12.42 aki-gm-resources-oversea.aki-game.net
+43.174.75.53 aki-gm-resources-oversea.aki-game.net
 
 #kuro-games
 3.165.102.14 sdkapi.kurogame-service.com
