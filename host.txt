@@ -67,7 +67,7 @@
 23.32.39.7 login1-jp.aki-game.net
 2600:1410:1000::17ce:afab login1-jp.aki-game.net
 43.174.75.53 guide-res.aki-game.net
-45.197.79.57 aki-gm-resources-back.aki-game.net  
+43.174.12.42 aki-gm-resources-back.aki-game.net
 43.174.75.53 aki-gm-resources-back.aki-game.net
 
 #二重螺旋
