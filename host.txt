@@ -3,18 +3,15 @@
 
 71.18.102.225 wuwa-act.kurogames-global.com
 71.18.102.225 wuwa-act.kurogames-global.com.volcgslb.com
-#43.174.12.42 aki-gm-resources-oversea.aki-game.net
-#43.174.75.53 aki-gm-resources-oversea.aki-game.net
-#13.33.88.114 web-static.kurogame.net
-#13.33.88.97 web-static.kurogame.net
-#3.173.197.58 web-static.kurogame.net
-#2600:9000:223b:ca00:18:717d:d580:93a1 web-static.kurogame.net
-#2600:9000:223b:8600:18:717d:d580:93a1 web-static.kurogame.net
-#2600:9000:223b:8600:18:717d:d580:93a1 web-static.kurogame.net
+43.174.12.42 aki-gm-resources-oversea.aki-game.net
+43.174.75.53 aki-gm-resources-oversea.aki-game.net
+13.33.88.114 web-static.kurogame.net
+13.33.88.97 web-static.kurogame.net
+3.173.197.58 web-static.kurogame.net
+2600:9000:223b:ca00:18:717d:d580:93a1 web-static.kurogame.net
+2600:9000:223b:8600:18:717d:d580:93a1 web-static.kurogame.net
+2600:9000:223b:8600:18:717d:d580:93a1 web-static.kurogame.net
 39.108.11.94 user-zone-api.kurogame.net
-
-aki-gm-resources-oversea.aki-game.com aki-gm-resources-oversea.aki-game.net
-web-static.kurogame.com web-static.kurogame.net
 
 #kuro-games
 3.165.102.14 sdkapi.kurogame-service.com
@@ -70,19 +67,15 @@ web-static.kurogame.com web-static.kurogame.net
 23.54.155.73 gar-service.aki-game.net
 2600:1410:1000::17ce:afab gar-service.aki-game.net
 2600:1417:1b::cb45:8acf gar-service.aki-game.net
-#2600:1417:1b::cb45:8ad0 gmserver-api.aki-game2.net
-#2600:1410:1000::17ce:afa0 gmserver-api.aki-game2.net
-#2.17.106.104 gmserver-api.aki-game2.net
-#23.197.85.75 gmserver-api.aki-game2.net
+2600:1417:1b::cb45:8ad0 gmserver-api.aki-game2.net
+2600:1410:1000::17ce:afa0 gmserver-api.aki-game2.net
+2.17.106.104 gmserver-api.aki-game2.net
+23.197.85.75 gmserver-api.aki-game2.net
 23.32.39.7 login1-jp.aki-game.net
 2600:1410:1000::17ce:afab login1-jp.aki-game.net
-4#3.174.75.53 guide-res.aki-game.net
-#43.174.12.42 aki-gm-resources-back.aki-game.net
-#43.174.75.53 aki-gm-resources-back.aki-game.net
-
-gmserver-api.aki-game2.com gmserver-api.aki-game2.net
-guide-res.aki-game.com guide-res.aki-game.net
-aki-gm-resources-back.aki-game.com aki-gm-resources-back.aki-game.net
+43.174.75.53 guide-res.aki-game.net
+43.174.12.42 aki-gm-resources-back.aki-game.net
+43.174.75.53 aki-gm-resources-back.aki-game.net
 
 #二重螺旋
 #108.157.254.84 pan01-cdn-hs-jp.dna-panstudio.com
