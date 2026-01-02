@@ -71,8 +71,10 @@
 2600:1410:1000::17ce:afa0 gmserver-api.aki-game2.net
 2.17.106.104 gmserver-api.aki-game2.net
 23.197.85.75 gmserver-api.aki-game2.net
-23.32.39.7 login1-jp.aki-game.net
+2.17.106.71 login1-jp.aki-game.net
+2.17.106.80 login1-jp.aki-game.net
 2600:1410:1000::17ce:afab login1-jp.aki-game.net
+2600:1417:1b::cb45:8ad8 login1-jp.aki-game.net
 43.174.75.53 guide-res.aki-game.net
 43.174.12.42 aki-gm-resources-back.aki-game.net
 43.174.75.53 aki-gm-resources-back.aki-game.net
