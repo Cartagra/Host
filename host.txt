@@ -31,6 +31,14 @@
 3.170.229.129 sdk-prod-cdn-aws.kurogame-service.com
 3.170.229.73 sdk-prod-cdn-aws.kurogame-service.com
 3.168.245.109 sdk-prod-cdn-aws.kurogame-service.com
+3.168.245.93 sdkapi.kurogame-service.xyz
+3.168.245.96 sdkapi.kurogame-service.xyz
+3.168.245.52 sdkapi.kurogame-service.xyz
+108.156.144.76 sdkapi.kurogame-service.xyz
+3.168.245.67 sdkapi.kurogame-service.xyz
+108.156.144.56 sdkapi.kurogame-service.xyz
+108.156.144.80 sdkapi.kurogame-service.xyz
+108.156.144.122 sdkapi.kurogame-service.xyz
 
 #huoshan block
 45.197.79.57 aki-config-huoshan.aki-game.net
