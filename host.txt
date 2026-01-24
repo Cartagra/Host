@@ -4,20 +4,33 @@
 71.18.102.225 wuwa-act.kurogames-global.com
 71.18.102.225 wuwa-act.kurogames-global.com.volcgslb.com
 43.174.12.42 aki-gm-resources-oversea.aki-game.net
-43.174.75.53 aki-gm-resources-oversea.aki-game.net
+101.33.20.216 aki-gm-resources-oversea.aki-game.net
+43.159.77.160 aki-gm-resources-oversea.aki-game.net
 13.33.88.114 web-static.kurogame.net
 13.33.88.97 web-static.kurogame.net
 3.173.197.58 web-static.kurogame.net
 2600:9000:223b:ca00:18:717d:d580:93a1 web-static.kurogame.net
 2600:9000:223b:8600:18:717d:d580:93a1 web-static.kurogame.net
 2600:9000:223b:8600:18:717d:d580:93a1 web-static.kurogame.net
-39.108.11.94 user-zone-api.kurogame.net
+
 
 #kuro-games
-3.165.102.14 sdkapi.kurogame-service.com
-3.165.102.74 sdkapi.kurogame-service.com
-3.170.229.10 sdk-prod-cdn-aws.kurogame-service
-3.170.229.84 sdk-prod-cdn-aws.kurogame-service
+3.171.198.9 sdkapi.kurogame-service.com
+3.173.197.28 sdkapi.kurogame-service.com
+3.173.197.6 sdkapi.kurogame-service.com
+3.173.197.107 sdkapi.kurogame-service.com
+3.171.198.82 sdkapi.kurogame-service.com
+3.171.198.45 sdkapi.kurogame-service.com
+3.171.198.38 sdkapi.kurogame-service.com
+3.173.197.111 sdkapi.kurogame-service.com
+3.168.245.4 sdk-prod-cdn-aws.kurogame-service.com
+3.168.245.94 sdk-prod-cdn-aws.kurogame-service.com
+3.168.245.127 sdk-prod-cdn-aws.kurogame-service.com
+3.170.229.10 sdk-prod-cdn-aws.kurogame-service.com
+3.170.229.84 sdk-prod-cdn-aws.kurogame-service.com
+3.170.229.129 sdk-prod-cdn-aws.kurogame-service.com
+3.170.229.73 sdk-prod-cdn-aws.kurogame-service.com
+3.168.245.109 sdk-prod-cdn-aws.kurogame-service.com
 
 #huoshan block
 45.197.79.57 aki-config-huoshan.aki-game.net
