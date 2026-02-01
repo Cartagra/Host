@@ -6,7 +6,13 @@
 184.27.185.71 heaven-burns-red-assets.akamaized.net
 184.27.185.90 heaven-burns-red-assets.akamaized.net
 184.27.185.83 heaven-burns-red-assets.akamaized.net
-
+3.173.238.21 heaven-burns-red.com
+13.35.37.66 heaven-burns-red.com
+13.35.37.98 heaven-burns-red.com
+13.35.37.67 heaven-burns-red.com
+13.35.37.36 heaven-burns-red.com
+3.173.238.66 heaven-burns-red.com
+3.173.238.70 heaven-burns-red.com
 #------鸣潮亚服---------
 
 71.18.102.225 wuwa-act.kurogames-global.com
