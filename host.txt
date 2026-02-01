@@ -1,3 +1,11 @@
+23.212.62.80 heaven-burns-red-assets.akamaized.net
+23.212.62.69 heaven-burns-red-assets.akamaized.net
+184.27.185.87 heaven-burns-red-assets.akamaized.net
+184.27.185.92 heaven-burns-red-assets.akamaized.net
+184.27.185.77 heaven-burns-red-assets.akamaized.net
+184.27.185.71 heaven-burns-red-assets.akamaized.net
+184.27.185.90 heaven-burns-red-assets.akamaized.net
+184.27.185.83 heaven-burns-red-assets.akamaized.net
 
 #------鸣潮亚服---------
 
