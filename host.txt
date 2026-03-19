@@ -24,6 +24,15 @@
 59.36.64.109 hw-media-cdn-mingchao.kurogame.com
 59.36.64.108 hw-media-cdn-mingchao.kurogame.com
 
+60.169.2.220 prod-alicdn-gamestarter.kurogame.com
+60.169.2.214 prod-alicdn-gamestarter.kurogame.com
+60.169.2.213 prod-alicdn-gamestarter.kurogame.com
+60.169.2.219 prod-alicdn-gamestarter.kurogame.com
+124.225.14.46 prod-alicdn-gamestarter.kurogame.com
+124.225.14.49 prod-alicdn-gamestarter.kurogame.com
+119.41.210.43 prod-alicdn-gamestarter.kurogame.com
+124.225.14.43 prod-alicdn-gamestarter.kurogame.com
+
 14.29.43.134 wutheringwaves.kurogames.com
 14.29.43.143 wutheringwaves.kurogames.com
 183.61.229.212 wutheringwaves.kurogames.com
