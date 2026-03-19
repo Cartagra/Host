@@ -14,6 +14,11 @@
 3.173.238.66 heaven-burns-red.com
 3.173.238.70 heaven-burns-red.com
 #------鸣潮亚服---------
+14.29.43.134 wutheringwaves.kurogames.com
+14.29.43.143 wutheringwaves.kurogames.com
+183.61.229.212 wutheringwaves.kurogames.com
+14.29.43.144 wutheringwaves.kurogames.com
+183.61.229.211 wutheringwaves.kurogames.com
 
 71.18.102.225 wuwa-act.kurogames-global.com
 71.18.102.225 wuwa-act.kurogames-global.com.volcgslb.com
