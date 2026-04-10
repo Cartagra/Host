@@ -95,10 +95,12 @@
 3.170.229.22 cdn-qcloud-hw-mc.aki-game.net
 
 #aws block
-45.197.79.57 aki-config-aws.aki-game.net
-43.174.75.53 aki-config-aws.aki-game.net
-45.197.79.57 aki-config-aws.aki-game2.net
-45.197.79.53 aki-config-aws.aki-game2.net
+3.170.229.62 aki-config-aws.aki-game.net
+3.170.229.8 aki-config-aws.aki-game.net
+3.171.198.104 aki-config-aws.aki-game2.net
+3.171.198.106 aki-config-aws.aki-game2.net
+3.166.244.22 aki-config-aws.aki-game2.net
+3.171.198.6 aki-config-aws.aki-game2.net
 3.170.229.65 cdn-aws-hw-mc.aki-game.net
 3.170.229.22 cdn-aws-hw-mc.aki-game.net
 
