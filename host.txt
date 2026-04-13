@@ -24,14 +24,19 @@
 59.36.64.109 hw-media-cdn-mingchao.kurogame.com
 59.36.64.108 hw-media-cdn-mingchao.kurogame.com
 
-60.169.2.220 prod-alicdn-gamestarter.kurogame.com
-60.169.2.214 prod-alicdn-gamestarter.kurogame.com
-60.169.2.213 prod-alicdn-gamestarter.kurogame.com
-60.169.2.219 prod-alicdn-gamestarter.kurogame.com
-124.225.14.46 prod-alicdn-gamestarter.kurogame.com
-124.225.14.49 prod-alicdn-gamestarter.kurogame.com
-119.41.210.43 prod-alicdn-gamestarter.kurogame.com
-124.225.14.43 prod-alicdn-gamestarter.kurogame.com
+183.3.204.201 prod-alicdn-gamestarter.kurogame.com
+183.3.204.202 prod-alicdn-gamestarter.kurogame.com
+183.3.204.197 prod-alicdn-gamestarter.kurogame.com
+183.3.204.200 prod-alicdn-gamestarter.kurogame.com
+183.3.204.199 prod-alicdn-gamestarter.kurogame.com
+183.3.204.198 prod-alicdn-gamestarter.kurogame.com
+183.3.204.204 prod-alicdn-gamestarter.kurogame.com
+183.3.204.203 prod-alicdn-gamestarter.kurogame.com
+27.159.86.6 prod-alicdn-gamestarter.kurogame.com
+222.84.158.68 prod-alicdn-gamestarter.kurogame.com
+116.253.26.62 prod-alicdn-gamestarter.kurogame.com
+116.253.26.59 prod-alicdn-gamestarter.kurogame.com
+222.84.158.70 prod-alicdn-gamestarter.kurogame.com
 
 14.29.43.134 wutheringwaves.kurogames.com
 14.29.43.143 wutheringwaves.kurogames.com
