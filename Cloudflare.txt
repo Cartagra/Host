@@ -2,8 +2,6 @@
 # Cloudflare Accelerated Hosts
 # Route all Cloudflare-related domains via 162.159.36.100
 # =========================
-saas.sin.fan region1.v2.argotunnel.com
-cf.tencentapp.cn region2.v2.argotunnel.com
 
 162.159.36.100 cloudflare.com
 162.159.36.100 www.cloudflare.com
