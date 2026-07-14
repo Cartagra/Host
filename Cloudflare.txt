@@ -1,103 +1,103 @@
 # =========================
 # Cloudflare Accelerated Hosts
-# Route all Cloudflare-related domains via 104.18.40.140
+# Route all Cloudflare-related domains via 172.64.146.107
 # =========================
 
-104.18.40.140 cloudflare.com
-104.18.40.140 www.cloudflare.com
-104.18.40.140 api.cloudflare.com
-104.18.40.140 dash.cloudflare.com
-104.18.40.140 support.cloudflare.com
-104.18.40.140 blog.cloudflare.com
-104.18.40.140 status.cloudflare.com
-104.18.40.140 developers.cloudflare.com
-104.18.40.140 community.cloudflare.com
-104.18.40.140 help.cloudflare.com
-104.18.40.140 partners.cloudflare.com
-104.18.40.140 updates.cloudflare.com
+172.64.146.107 cloudflare.com
+172.64.146.107 www.cloudflare.com
+172.64.146.107 api.cloudflare.com
+172.64.146.107 dash.cloudflare.com
+172.64.146.107 support.cloudflare.com
+172.64.146.107 blog.cloudflare.com
+172.64.146.107 status.cloudflare.com
+172.64.146.107 developers.cloudflare.com
+172.64.146.107 community.cloudflare.com
+172.64.146.107 help.cloudflare.com
+172.64.146.107 partners.cloudflare.com
+172.64.146.107 updates.cloudflare.com
 
 # DNS / DOH / DOT
-104.18.40.140 one.one.one.one
-104.18.40.140 1.1.1.1
-104.18.40.140 1.0.0.1
-104.18.40.140 cloudflare-dns.com
-104.18.40.140 security.cloudflare-dns.com
-104.18.40.140 family.cloudflare-dns.com
-104.18.40.140 dns.cloudflare.com
-104.18.40.140 1dot1dot1dot1.cloudflare-dns.com
+172.64.146.107 one.one.one.one
+172.64.146.107 1.1.1.1
+172.64.146.107 1.0.0.1
+172.64.146.107 cloudflare-dns.com
+172.64.146.107 security.cloudflare-dns.com
+172.64.146.107 family.cloudflare-dns.com
+172.64.146.107 dns.cloudflare.com
+172.64.146.107 1dot1dot1dot1.cloudflare-dns.com
 
 # CDN / JS / Assets
-104.18.40.140 cdnjs.cloudflare.com
-104.18.40.140 cdnjs.com
-104.18.40.140 cdn.cloudflare.net
-104.18.40.140 static.cloudflareinsights.com
-104.18.40.140 beacon.cloudflare.com
-104.18.40.140 insights.cloudflare.com
-104.18.40.140 performance.cloudflare.com
+172.64.146.107 cdnjs.cloudflare.com
+172.64.146.107 cdnjs.com
+172.64.146.107 cdn.cloudflare.net
+172.64.146.107 static.cloudflareinsights.com
+172.64.146.107 beacon.cloudflare.com
+172.64.146.107 insights.cloudflare.com
+172.64.146.107 performance.cloudflare.com
 
 # Pages / Workers / R2
-104.18.40.140 workers.cloudflare.com
-104.18.40.140 workers.dev
-104.18.40.140 pages.cloudflare.com
-104.18.40.140 pages.dev
-104.18.40.140 r2.cloudflarestorage.com
-104.18.40.140 api.r2.cloudflarestorage.com
+172.64.146.107 workers.cloudflare.com
+172.64.146.107 workers.dev
+172.64.146.107 pages.cloudflare.com
+172.64.146.107 pages.dev
+172.64.146.107 r2.cloudflarestorage.com
+172.64.146.107 api.r2.cloudflarestorage.com
 
 # Access / Zero Trust / Warp
-104.18.40.140 warp.cloudflareclient.com
-104.18.40.140 api.cloudflareclient.com
-104.18.40.140 update.cloudflareclient.com
-104.18.40.140 cloudflareaccess.com
-104.18.40.140 zero-trust-dashboard.cloudflareaccess.com
-104.18.40.140 teams.cloudflare.com
-104.18.40.140 gateway.cloudflare.com
-104.18.40.140 team.cloudflare.com
-104.18.40.140 client.cloudflareclient.com
+172.64.146.107 warp.cloudflareclient.com
+172.64.146.107 api.cloudflareclient.com
+172.64.146.107 update.cloudflareclient.com
+172.64.146.107 cloudflareaccess.com
+172.64.146.107 zero-trust-dashboard.cloudflareaccess.com
+172.64.146.107 teams.cloudflare.com
+172.64.146.107 gateway.cloudflare.com
+172.64.146.107 team.cloudflare.com
+172.64.146.107 client.cloudflareclient.com
 
 # Nameservers
-104.18.40.140 a.ns.cloudflare.com
-104.18.40.140 b.ns.cloudflare.com
-104.18.40.140 c.ns.cloudflare.com
-104.18.40.140 d.ns.cloudflare.com
-104.18.40.140 e.ns.cloudflare.com
-104.18.40.140 f.ns.cloudflare.com
-104.18.40.140 g.ns.cloudflare.com
-104.18.40.140 h.ns.cloudflare.com
-104.18.40.140 i.ns.cloudflare.com
-104.18.40.140 j.ns.cloudflare.com
-104.18.40.140 k.ns.cloudflare.com
-104.18.40.140 l.ns.cloudflare.com
+172.64.146.107 a.ns.cloudflare.com
+172.64.146.107 b.ns.cloudflare.com
+172.64.146.107 c.ns.cloudflare.com
+172.64.146.107 d.ns.cloudflare.com
+172.64.146.107 e.ns.cloudflare.com
+172.64.146.107 f.ns.cloudflare.com
+172.64.146.107 g.ns.cloudflare.com
+172.64.146.107 h.ns.cloudflare.com
+172.64.146.107 i.ns.cloudflare.com
+172.64.146.107 j.ns.cloudflare.com
+172.64.146.107 k.ns.cloudflare.com
+172.64.146.107 l.ns.cloudflare.com
 
 # Foundation DNS (Enterprise NS)
-104.18.40.140 foundationdns.com
-104.18.40.140 foundationdns.net
-104.18.40.140 foundationdns.org
+172.64.146.107 foundationdns.com
+172.64.146.107 foundationdns.net
+172.64.146.107 foundationdns.org
 
 # Cloudflare API / Misc
-104.18.40.140 api.cloudflare.com
-104.18.40.140 api.cloudflarestatus.com
-104.18.40.140 api.cloudflareinsights.com
-104.18.40.140 metrics.cloudflare.com
-104.18.40.140 logs.cloudflare.com
-104.18.40.140 updates.cloudflare.com
+172.64.146.107 api.cloudflare.com
+172.64.146.107 api.cloudflarestatus.com
+172.64.146.107 api.cloudflareinsights.com
+172.64.146.107 metrics.cloudflare.com
+172.64.146.107 logs.cloudflare.com
+172.64.146.107 updates.cloudflare.com
 
 # Workers Gateway / KV / Tunnel
-104.18.40.140 tunnel.cloudflareclient.com
-104.18.40.140 argo.cloudflare.com
-104.18.40.140 kv.cloudflare.com
+172.64.146.107 tunnel.cloudflareclient.com
+172.64.146.107 argo.cloudflare.com
+172.64.146.107 kv.cloudflare.com
 
 # Email / Auth
-104.18.40.140 auth.cloudflare.com
-104.18.40.140 login.cloudflare.com
-104.18.40.140 sso.cloudflare.com
+172.64.146.107 auth.cloudflare.com
+172.64.146.107 login.cloudflare.com
+172.64.146.107 sso.cloudflare.com
 
 # Assets and Docs
-104.18.40.140 assets.cloudflare.com
-104.18.40.140 docs.cloudflare.com
-104.18.40.140 api-docs.cloudflare.com
+172.64.146.107 assets.cloudflare.com
+172.64.146.107 docs.cloudflare.com
+172.64.146.107 api-docs.cloudflare.com
 
 # Misc
-104.18.40.140 report-uri.cloudflare.com
-104.18.40.140 cf-ipfs.com
-104.18.40.140 cf-ns.com
-104.18.40.140 cfargotunnel.com
+172.64.146.107 report-uri.cloudflare.com
+172.64.146.107 cf-ipfs.com
+172.64.146.107 cf-ns.com
+172.64.146.107 cfargotunnel.com
