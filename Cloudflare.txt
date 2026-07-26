@@ -101,3 +101,10 @@
 172.64.146.107 cf-ipfs.com
 172.64.146.107 cf-ns.com
 172.64.146.107 cfargotunnel.com
+
+# iwara
+172.64.53.176 iwara.tv
+172.64.53.176 i.iwara.tv
+172.64.53.176 api.iwara.tv
+172.64.53.176 www.iwara.tv
+172.64.53.176 service.iwara.tv
