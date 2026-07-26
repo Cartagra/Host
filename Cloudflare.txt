@@ -15,6 +15,7 @@
 172.64.146.107 help.cloudflare.com
 172.64.146.107 partners.cloudflare.com
 172.64.146.107 updates.cloudflare.com
+172.64.146.107 challenges.cloudflare.com
 
 # DNS / DOH / DOT
 172.64.146.107 one.one.one.one
