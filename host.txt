@@ -126,17 +126,38 @@
 
 #akamai
 23.54.155.112 aki-config-akamai.aki-game.net
+23.61.202.20 aki-config-akamai.aki-game.net
+23.61.202.8 aki-config-akamai.aki-game.net
 23.54.155.102 aki-config-akamai.aki-game.net
-2001:b034:1:700::cb45:5138 aki-config-akamai.aki-game.net
+2600:1413:5000:28::173a:9024 aki-config-akamai.aki-game.net
+2600:1413:5000:28::173a:9017 aki-config-akamai.aki-game.net
 2600:140b:1a00:7::17c1:ba0e aki-config-akamai.aki-game.net
-23.54.155.112 aki-config-akamai.aki-game2.net
+2600:140b:1a00:7::17c1:ba2c aki-config-akamai.aki-game.net
+23.61.202.5 aki-config-akamai.aki-game2.net
 23.54.155.109 aki-config-akamai.aki-game2.net
+23.61.202.21 aki-config-akamai.aki-game2.net
+23.54.155.112 aki-config-akamai.aki-game2.net
+2600:1413:5000:28::173a:9042 aki-config-akamai.aki-game2.net
+2600:1413:5000:28::173a:904b aki-config-akamai.aki-game2.net
 2600:140b:1a00:7::17c1:ba1c aki-config-akamai.aki-game2.net
 2600:140b:1a00:7::17c1:ba15 aki-config-akamai.aki-game2.net
 23.54.155.105 cdn-akamai-hw-mc.aki-game.net
+23.61.202.10 cdn-akamai-hw-mc.aki-game.net
+23.61.202.14 cdn-akamai-hw-mc.aki-game.net
 23.54.155.102 cdn-akamai-hw-mc.aki-game.net
-2600:1413:5000:25::1738:6136 cdn-akamai-hw-mc.aki-game.net
-2600:1413:5000:25::1738:6141 cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba0d cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba1c cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba12 cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba05 cdn-akamai-hw-mc.aki-game.net
+2600:1413:5000:28::173a:9027 cdn-akamai-hw-mc.aki-game.net
+2600:1413:5000:28::173a:903d cdn-akamai-hw-mc.aki-game.net
+23.58.144.37 aki-gm-res-back-akamai.aki-game.net
+23.58.144.65 aki-gm-res-back-akamai.aki-game.net
+23.209.45.51 aki-gm-res-back-akamai.aki-game.net
+2600:1413:5000:3c::1735:76f7 aki-gm-res-back-akamai.aki-game.net
+2600:1413:5000:3c::1735:76ed aki-gm-res-back-akamai.aki-game.net
+2600:140b:1a00:19::17dc:4492 aki-gm-res-back-akamai.aki-game.net
+2600:140b:1a00:19::17dc:4485 aki-gm-res-back-akamai.aki-game.net
 
 #aki-game
 23.220.70.26 gar-service.aki-game.net
