@@ -14,6 +14,13 @@
 3.173.238.66 heaven-burns-red.com
 3.173.238.70 heaven-burns-red.com
 #------鸣潮亚服---------
+23.61.202.15 wuwa-share.kurogames-global.com
+23.61.202.4 wuwa-share.kurogames-global.com
+23.216.159.129 wuwa-share.kurogames-global.com
+104.70.122.131 wuwa-share.kurogames-global.com
+104.70.122.49 wuwa-share.kurogames-global.com
+23.216.159.107 wuwa-share.kurogames-global.com
+
 23.58.144.206 st-sg1.aki-game.net
 2.17.106.196 st-sg1.aki-game.net
 2.17.106.201 st-sg1.aki-game.net
