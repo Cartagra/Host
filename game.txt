@@ -1,0 +1,193 @@
+23.212.62.80 heaven-burns-red-assets.akamaized.net
+23.212.62.69 heaven-burns-red-assets.akamaized.net
+184.27.185.87 heaven-burns-red-assets.akamaized.net
+184.27.185.92 heaven-burns-red-assets.akamaized.net
+184.27.185.77 heaven-burns-red-assets.akamaized.net
+184.27.185.71 heaven-burns-red-assets.akamaized.net
+184.27.185.90 heaven-burns-red-assets.akamaized.net
+184.27.185.83 heaven-burns-red-assets.akamaized.net
+3.173.238.21 heaven-burns-red.com
+13.35.37.66 heaven-burns-red.com
+13.35.37.98 heaven-burns-red.com
+13.35.37.67 heaven-burns-red.com
+13.35.37.36 heaven-burns-red.com
+3.173.238.66 heaven-burns-red.com
+3.173.238.70 heaven-burns-red.com
+#------鸣潮亚服---------
+23.61.202.15 wuwa-share.kurogames-global.com
+23.61.202.4 wuwa-share.kurogames-global.com
+23.216.159.129 wuwa-share.kurogames-global.com
+104.70.122.131 wuwa-share.kurogames-global.com
+104.70.122.49 wuwa-share.kurogames-global.com
+23.216.159.107 wuwa-share.kurogames-global.com
+
+23.58.144.206 st-sg1.aki-game.net
+2.17.106.196 st-sg1.aki-game.net
+2.17.106.201 st-sg1.aki-game.net
+23.58.144.208 st-sg1.aki-game.net
+121.254.136.11 st-sg1.aki-game.net
+2600:1413:5000:3::1736:76a3 st-sg1.aki-game.net
+2600:1413:5000:3::1736:7698 st-sg1.aki-game.net
+2600:1410:1000::1723:da9d st-sg1.aki-game.net
+2600:140b:1a00:1a::17dc:4420 st-sg1.aki-game.net
+2600:140b:1a00:1a::17dc:441b st-sg1.aki-game.net
+
+183.61.229.211 hw-media-cdn-mingchao.kurogame.com
+183.60.164.193 hw-media-cdn-mingchao.kurogame.com
+183.61.229.209 hw-media-cdn-mingchao.kurogame.com
+183.60.164.192 hw-media-cdn-mingchao.kurogame.com
+183.61.229.210 hw-media-cdn-mingchao.kurogame.com
+59.36.64.104 hw-media-cdn-mingchao.kurogame.com
+59.36.64.109 hw-media-cdn-mingchao.kurogame.com
+59.36.64.108 hw-media-cdn-mingchao.kurogame.com
+
+183.3.204.201 prod-alicdn-gamestarter.kurogame.com
+183.3.204.202 prod-alicdn-gamestarter.kurogame.com
+183.3.204.197 prod-alicdn-gamestarter.kurogame.com
+183.3.204.200 prod-alicdn-gamestarter.kurogame.com
+183.3.204.199 prod-alicdn-gamestarter.kurogame.com
+183.3.204.198 prod-alicdn-gamestarter.kurogame.com
+183.3.204.204 prod-alicdn-gamestarter.kurogame.com
+183.3.204.203 prod-alicdn-gamestarter.kurogame.com
+27.159.86.6 prod-alicdn-gamestarter.kurogame.com
+222.84.158.68 prod-alicdn-gamestarter.kurogame.com
+116.253.26.62 prod-alicdn-gamestarter.kurogame.com
+116.253.26.59 prod-alicdn-gamestarter.kurogame.com
+222.84.158.70 prod-alicdn-gamestarter.kurogame.com
+
+14.29.43.134 wutheringwaves.kurogames.com
+14.29.43.143 wutheringwaves.kurogames.com
+183.61.229.212 wutheringwaves.kurogames.com
+14.29.43.144 wutheringwaves.kurogames.com
+183.61.229.211 wutheringwaves.kurogames.com
+
+71.18.102.225 wuwa-act.kurogames-global.com
+71.18.102.225 wuwa-act.kurogames-global.com.volcgslb.com
+43.174.12.42 aki-gm-resources-oversea.aki-game.net
+101.33.20.216 aki-gm-resources-oversea.aki-game.net
+43.159.77.160 aki-gm-resources-oversea.aki-game.net
+13.33.88.114 web-static.kurogame.net
+13.33.88.97 web-static.kurogame.net
+3.173.197.58 web-static.kurogame.net
+2600:9000:223b:6600:18:717d:d580:93a1 web-static.kurogame.net
+2600:9000:223b:ee00:18:717d:d580:93a1 web-static.kurogame.net
+2600:9000:223b:f200:18:717d:d580:93a1 web-static.kurogame.net
+2600:9000:223b:cc00:18:717d:d580:93a1 web-static.kurogame.net
+2600:9000:223b:ce00:18:717d:d580:93a1 web-static.kurogame.net
+2600:9000:223b:3800:18:717d:d580:93a1 web-static.kurogame.net
+
+
+#kuro-games
+99.86.20.63 sdkapi.kurogame-service.com
+99.86.20.98 sdkapi.kurogame-service.com
+99.86.20.126 sdkapi.kurogame-service.com
+99.86.20.90 sdkapi.kurogame-service.com
+3.173.238.113 sdkapi.kurogame-service.com
+3.173.238.129 sdkapi.kurogame-service.com
+3.168.86.31 sdkapi.kurogame-service.com
+3.168.245.94 sdk-prod-cdn-aws.kurogame-service.com
+99.86.20.24 sdk-prod-cdn-aws.kurogame-service.com
+99.86.20.125 sdk-prod-cdn-aws.kurogame-service.com
+99.86.20.21 sdk-prod-cdn-aws.kurogame-service.com
+99.86.20.102 sdk-prod-cdn-aws.kurogame-service.com
+3.168.245.4 sdk-prod-cdn-aws.kurogame-service.com
+3.168.245.127 sdk-prod-cdn-aws.kurogame-service.com
+18.155.202.79 sdkapi.kurogame-service.xyz
+108.156.144.122 sdkapi.kurogame-service.xyz
+108.156.144.80 sdkapi.kurogame-service.xyz
+108.156.144.76 sdkapi.kurogame-service.xyz
+108.156.144.56 sdkapi.kurogame-service.xyz
+3.168.245.52 sdkapi.kurogame-service.xyz
+3.168.245.96 sdkapi.kurogame-service.xyz
+
+#huoshan block
+45.197.79.57 aki-config-huoshan.aki-game.net
+43.174.75.53 aki-config-huoshan.aki-game.net
+45.197.79.57 aki-config-huoshan.aki-game2.net
+45.197.79.53 aki-config-akamai.aki-game2.net
+3.170.229.65 cdn-huoshan-hw-mc.aki-game.net
+3.170.229.22 cdn-huoshan-hw-mc.aki-game.net
+
+#qcloud
+45.197.79.57 aki-config-qcloud.aki-game.net
+43.174.75.53 aki-config-qcloud.aki-game.net
+45.197.79.57 aki-config-qcloud.aki-game2.net
+45.197.79.53 aki-config-qcloud.aki-game2.net
+3.170.229.65 cdn-qcloud-hw-mc.aki-game.net
+3.170.229.22 cdn-qcloud-hw-mc.aki-game.net
+
+#aws block
+3.170.229.62 aki-config-aws.aki-game.net
+3.170.229.8 aki-config-aws.aki-game.net
+3.171.198.104 aki-config-aws.aki-game2.net
+3.171.198.106 aki-config-aws.aki-game2.net
+3.166.244.22 aki-config-aws.aki-game2.net
+3.171.198.6 aki-config-aws.aki-game2.net
+3.170.229.65 cdn-aws-hw-mc.aki-game.net
+3.170.229.22 cdn-aws-hw-mc.aki-game.net
+
+
+#aliyun
+92.223.84.84 cdn-aliyun-hw-mc.aki-game.net
+92.223.95.95 cdn-aliyun-hw-mc.aki-game.net
+
+#akamai
+23.54.155.112 aki-config-akamai.aki-game.net
+23.61.202.20 aki-config-akamai.aki-game.net
+23.61.202.8 aki-config-akamai.aki-game.net
+23.54.155.102 aki-config-akamai.aki-game.net
+2600:1413:5000:28::173a:9024 aki-config-akamai.aki-game.net
+2600:1413:5000:28::173a:9017 aki-config-akamai.aki-game.net
+2600:140b:1a00:7::17c1:ba0e aki-config-akamai.aki-game.net
+2600:140b:1a00:7::17c1:ba2c aki-config-akamai.aki-game.net
+23.61.202.5 aki-config-akamai.aki-game2.net
+23.54.155.109 aki-config-akamai.aki-game2.net
+23.61.202.21 aki-config-akamai.aki-game2.net
+23.54.155.112 aki-config-akamai.aki-game2.net
+2600:1413:5000:28::173a:9042 aki-config-akamai.aki-game2.net
+2600:1413:5000:28::173a:904b aki-config-akamai.aki-game2.net
+2600:140b:1a00:7::17c1:ba1c aki-config-akamai.aki-game2.net
+2600:140b:1a00:7::17c1:ba15 aki-config-akamai.aki-game2.net
+23.54.155.105 cdn-akamai-hw-mc.aki-game.net
+23.61.202.10 cdn-akamai-hw-mc.aki-game.net
+23.61.202.14 cdn-akamai-hw-mc.aki-game.net
+23.54.155.102 cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba0d cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba1c cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba12 cdn-akamai-hw-mc.aki-game.net
+2600:140b:1a00:7::17c1:ba05 cdn-akamai-hw-mc.aki-game.net
+2600:1413:5000:28::173a:9027 cdn-akamai-hw-mc.aki-game.net
+2600:1413:5000:28::173a:903d cdn-akamai-hw-mc.aki-game.net
+23.58.144.37 aki-gm-res-back-akamai.aki-game.net
+23.58.144.65 aki-gm-res-back-akamai.aki-game.net
+23.209.45.51 aki-gm-res-back-akamai.aki-game.net
+2600:1413:5000:3c::1735:76f7 aki-gm-res-back-akamai.aki-game.net
+2600:1413:5000:3c::1735:76ed aki-gm-res-back-akamai.aki-game.net
+2600:140b:1a00:19::17dc:4492 aki-gm-res-back-akamai.aki-game.net
+2600:140b:1a00:19::17dc:4485 aki-gm-res-back-akamai.aki-game.net
+
+#aki-game
+23.220.70.26 gar-service.aki-game.net
+23.54.155.73 gar-service.aki-game.net
+2600:1410:1000::17ce:afab gar-service.aki-game.net
+2600:1417:1b::cb45:8acf gar-service.aki-game.net
+2600:1417:1b::cb45:8ad0 gmserver-api.aki-game2.net
+2600:1410:1000::17ce:afa0 gmserver-api.aki-game2.net
+2.17.106.104 gmserver-api.aki-game2.net
+23.197.85.75 gmserver-api.aki-game2.net
+2.17.106.71 login1-jp.aki-game.net
+2.17.106.80 login1-jp.aki-game.net
+2600:1410:1000::17ce:afab login1-jp.aki-game.net
+2600:1417:1b::cb45:8ad8 login1-jp.aki-game.net
+43.174.75.53 guide-res.aki-game.net
+43.174.12.42 aki-gm-resources-back.aki-game.net
+43.174.75.53 aki-gm-resources-back.aki-game.net
+
+#二重螺旋
+#108.157.254.84 pan01-cdn-hs-jp.dna-panstudio.com
+#2600:9000:271a:a00:1f:765a:d3c0:93a1 pan01-cdn-hs-jp.dna-panstudio.com
+#108.157.254.84 pan01-cdn-aws-jp.dna-panstudio.com
+#2600:9000:271a:a00:1f:765a:d3c0:93a1 pan01-cdn-aws-jp.dna-panstudio.com
+#108.157.254.84 pan01-cdn-eo-jp.dna-panstudio.com
+#2600:9000:271a:a00:1f:765a:d3c0:93a1 pan01-cdn-eo-jp.dna-panstudio.com
+#108.157.254.84 pan01-cdn-ali-jp.dna-panstudio.com
